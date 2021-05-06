@@ -1,0 +1,28 @@
+#header{
+  text-align: center;
+  padding: 2% 0 2% 0;
+}
+
+
+a{
+  font-family: 'cormorant garamond light',serif;
+  font-size: 30px;
+  text-decoration: none;
+  color: rgb(38,63,91);
+
+}
+a:link{
+
+  color: black; 
+
+}
+
+html, body, #app{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+
